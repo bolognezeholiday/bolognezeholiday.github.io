@@ -6,3 +6,9 @@
 .card{
     flex: 1;
 }
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
